@@ -280,7 +280,7 @@ export default function Home() {
           {["Tote Bags", "Crossbody Bags", "Shoulder Bags"].map((category) => (
             <Link
               key={category}
-              href={`/shop/${category.toLowerCase().replace(" ", "-")}`}
+              href={`/shop?category=${encodeURIComponent(category)}`}
               className="group relative aspect-square overflow-hidden rounded-lg"
             >
               <Image

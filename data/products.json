@@ -150,8 +150,8 @@
             "description": "Contemporary messenger bag featuring Adinkra symbols and premium leather construction. Perfect for daily commute and business use.",
             "price": 1199.99,
             "images": [
-                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60",
-                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60"
+                "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?q=80&w=1963&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?q=80&w=1963&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ],
             "category": "messenger",
             "brand": "Ghana Luxe",
@@ -198,8 +198,8 @@
             "description": "Spacious hobo bag featuring vibrant Ankara prints and soft leather construction. Perfect for casual everyday use.",
             "price": 999.99,
             "images": [
-                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60",
-                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60"
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ],
             "category": "hobo",
             "brand": "Ghana Luxe",
@@ -222,8 +222,8 @@
             "description": "Elegant evening clutch featuring intricate traditional beadwork and metallic accents. Perfect for formal events.",
             "price": 699.99,
             "images": [
-                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60",
-                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60"
+                "https://plus.unsplash.com/premium_photo-1680390327010-09e627ebd475?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1680390327010-09e627ebd475?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ],
             "category": "clutch",
             "brand": "Ghana Luxe",
@@ -246,8 +246,8 @@
             "description": "Contemporary satchel featuring traditional Adire prints with modern leather accents. Perfect for the style-conscious professional.",
             "price": 1299.99,
             "images": [
-                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&auto=format&fit=crop&q=60",
-                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&auto=format&fit=crop&q=60"
+                "https://images.unsplash.com/photo-1732726345661-836c96f4d5f6?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1732726345661-836c96f4d5f6?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ],
             "category": "satchel",
             "brand": "Ghana Luxe",
@@ -266,12 +266,12 @@
         },
         {
             "id": "12",
-            "name": "Mini Kente Crossbody",
+            "name": "Mini Crossbody",
             "description": "Compact crossbody bag with authentic Kente cloth exterior and leather trim. Perfect for essentials on the go.",
             "price": 599.99,
             "images": [
-                "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&auto=format&fit=crop&q=60",
-                "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&auto=format&fit=crop&q=60"
+                "https://images.unsplash.com/photo-1609172795052-05bf80681031?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1609172795052-05bf80681031?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ],
             "category": "crossbody",
             "brand": "Ghana Luxe",

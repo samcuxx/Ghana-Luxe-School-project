@@ -96,7 +96,7 @@ export default function AboutPage() {
       </section>
 
       {/* Team Section */}
-      <section className="pb-24">
+      {/* <section className="pb-24">
         <div className="container">
           <h2 className="mb-16 text-center text-4xl font-bold tracking-tight">Our Team</h2>
           <div className="grid gap-12 sm:grid-cols-2 lg:grid-cols-3">
@@ -138,7 +138,7 @@ export default function AboutPage() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }
