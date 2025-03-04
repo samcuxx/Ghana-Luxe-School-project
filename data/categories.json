@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "id": "totes",
+            "name": "Tote Bags", 
+            "description": "Spacious and versatile tote bags perfect for everyday use",
+            "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        },
+        {
+            "id": "crossbody",
+            "name": "Crossbody Bags",
+            "description": "Hands-free convenience with style",
+            "image": "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        },
+        {
+            "id": "shoulder",
+            "name": "Shoulder Bags",
+            "description": "Classic and elegant shoulder bags",
+            "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        },
+        {
+            "id": "clutch",
+            "name": "Clutch Bags",
+            "description": "Elegant evening clutches for special occasions",
+            "image": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        },
+        {
+            "id": "backpack",
+            "name": "Backpacks",
+            "description": "Modern backpacks with traditional African flair",
+            "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        },
+        {
+            "id": "bucket",
+            "name": "Bucket Bags",
+            "description": "Trendy bucket bags with traditional accents",
+            "image": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        },
+        {
+            "id": "messenger",
+            "name": "Messenger Bags",
+            "description": "Contemporary messenger bags for daily commute",
+            "image": "https://images.unsplash.com/photo-1590739225287-bd31519780c5?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        },
+        {
+            "id": "travel",
+            "name": "Travel Bags",
+            "description": "Luxurious travel bags for short trips and weekends",
+            "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        },
+        {
+            "id": "hobo",
+            "name": "Hobo Bags",
+            "description": "Spacious hobo bags with vibrant prints",
+            "image": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        },
+        {
+            "id": "satchel",
+            "name": "Satchel Bags",
+            "description": "Contemporary satchels with traditional prints",
+            "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&auto=format&fit=crop&q=60",
+            "parentCategory": null,
+            "subCategories": []
+        }
+    ]
+}

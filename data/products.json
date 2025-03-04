@@ -1,0 +1,292 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Luxury Leather Tote Bag",
+            "description": "Handcrafted genuine leather tote bag with gold hardware and spacious compartments. Perfect for everyday use.",
+            "price": 1299.99,
+            "images": [
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "totes",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Genuine leather",
+                "Gold hardware",
+                "Spacious compartments"
+            ],
+            "specifications": {
+                "material": "Genuine leather",
+                "dimensions": "35cm x 25cm x 15cm",
+                "color": "Brown"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "2",
+            "name": "Designer Crossbody Bag",
+            "description": "Elegant crossbody bag with adjustable strap and multiple compartments. Features premium African print lining.",
+            "price": 899.99,
+            "images": [
+                "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "crossbody",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Adjustable strap",
+                "African print lining",
+                "Multiple compartments"
+            ],
+            "specifications": {
+                "material": "Premium leather",
+                "dimensions": "25cm x 20cm x 8cm",
+                "color": "Black"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "3",
+            "name": "Premium Shoulder Bag",
+            "description": "Stylish shoulder bag with detachable strap and magnetic closure. Perfect for both casual and formal occasions.",
+            "price": 1099.99,
+            "images": [
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "shoulder",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Detachable strap",
+                "Magnetic closure",
+                "Water-resistant"
+            ],
+            "specifications": {
+                "material": "Premium leather",
+                "dimensions": "30cm x 22cm x 10cm",
+                "color": "Tan"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "4",
+            "name": "Classic Clutch Bag",
+            "description": "Elegant evening clutch with traditional Kente cloth accents and gold chain strap. Perfect for special occasions.",
+            "price": 799.99,
+            "images": [
+                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "clutch",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Kente cloth accents",
+                "Detachable chain strap",
+                "Interior mirror"
+            ],
+            "specifications": {
+                "material": "Premium leather and Kente cloth",
+                "dimensions": "25cm x 15cm x 5cm",
+                "color": "Black with multicolor Kente"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "5",
+            "name": "African Print Backpack",
+            "description": "Modern backpack featuring authentic African prints and genuine leather trim. Perfect for the fashion-forward professional.",
+            "price": 1499.99,
+            "images": [
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "backpack",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Laptop compartment",
+                "Traditional prints",
+                "Anti-theft design"
+            ],
+            "specifications": {
+                "material": "Canvas and leather",
+                "dimensions": "40cm x 30cm x 15cm",
+                "color": "Multicolor"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "6",
+            "name": "Mini Bucket Bag",
+            "description": "Trendy bucket bag with braided handle and traditional beadwork. Features drawstring closure and leather tassels.",
+            "price": 899.99,
+            "images": [
+                "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "bucket",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Braided handle",
+                "Traditional beadwork",
+                "Drawstring closure"
+            ],
+            "specifications": {
+                "material": "Leather and beads",
+                "dimensions": "20cm x 20cm x 15cm",
+                "color": "Caramel"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "7",
+            "name": "Adinkra Messenger Bag",
+            "description": "Contemporary messenger bag featuring Adinkra symbols and premium leather construction. Perfect for daily commute and business use.",
+            "price": 1199.99,
+            "images": [
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "messenger",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Adinkra symbol embossing",
+                "Padded laptop sleeve",
+                "Waterproof exterior"
+            ],
+            "specifications": {
+                "material": "Full-grain leather",
+                "dimensions": "38cm x 28cm x 12cm",
+                "color": "Dark Brown"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "8",
+            "name": "Kente Weekender Bag",
+            "description": "Luxurious weekend travel bag combining traditional Kente patterns with modern functionality. Perfect for short trips and travel.",
+            "price": 1899.99,
+            "images": [
+                "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "travel",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Kente pattern panels",
+                "Shoe compartment",
+                "Trolley sleeve"
+            ],
+            "specifications": {
+                "material": "Leather and Kente fabric",
+                "dimensions": "55cm x 35cm x 25cm",
+                "color": "Multi-colored"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "9",
+            "name": "Ankara Print Hobo Bag",
+            "description": "Spacious hobo bag featuring vibrant Ankara prints and soft leather construction. Perfect for casual everyday use.",
+            "price": 999.99,
+            "images": [
+                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "hobo",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Ankara print panels",
+                "Magnetic closure",
+                "Interior organizer"
+            ],
+            "specifications": {
+                "material": "Leather and Ankara fabric",
+                "dimensions": "35cm x 30cm x 12cm",
+                "color": "Multi-colored"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "10",
+            "name": "Traditional Beaded Clutch",
+            "description": "Elegant evening clutch featuring intricate traditional beadwork and metallic accents. Perfect for formal events.",
+            "price": 699.99,
+            "images": [
+                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "clutch",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Traditional beadwork",
+                "Chain strap",
+                "Satin lining"
+            ],
+            "specifications": {
+                "material": "Beads and metallic fabric",
+                "dimensions": "22cm x 12cm x 5cm",
+                "color": "Gold/Multi"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "11",
+            "name": "Adire Print Satchel",
+            "description": "Contemporary satchel featuring traditional Adire prints with modern leather accents. Perfect for the style-conscious professional.",
+            "price": 1299.99,
+            "images": [
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "satchel",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Adire pattern panels",
+                "Laptop compartment",
+                "Adjustable shoulder strap"
+            ],
+            "specifications": {
+                "material": "Leather and Adire fabric",
+                "dimensions": "40cm x 30cm x 12cm",
+                "color": "Blue/Indigo"
+            },
+            "inStock": true,
+            "reviews": []
+        },
+        {
+            "id": "12",
+            "name": "Mini Kente Crossbody",
+            "description": "Compact crossbody bag with authentic Kente cloth exterior and leather trim. Perfect for essentials on the go.",
+            "price": 599.99,
+            "images": [
+                "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&auto=format&fit=crop&q=60",
+                "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&auto=format&fit=crop&q=60"
+            ],
+            "category": "crossbody",
+            "brand": "Ghana Luxe",
+            "features": [
+                "Authentic Kente cloth",
+                "Leather trim",
+                "Phone pocket"
+            ],
+            "specifications": {
+                "material": "Kente cloth and leather",
+                "dimensions": "18cm x 15cm x 6cm",
+                "color": "Traditional Kente patterns"
+            },
+            "inStock": true,
+            "reviews": []
+        }
+    ]
+}
